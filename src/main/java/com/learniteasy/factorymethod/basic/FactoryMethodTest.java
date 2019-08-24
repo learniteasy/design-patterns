@@ -1,6 +1,7 @@
-package com.learniteasy.factorymethod;
+package com.learniteasy.factorymethod.basic;
 
-import com.learniteasy.factorymethod.ShapeFactory.SHAPES;
+import com.learniteasy.factorymethod.Shape;
+import com.learniteasy.factorymethod.Shape.SHAPES;
 
 /**
  * @author afudeale

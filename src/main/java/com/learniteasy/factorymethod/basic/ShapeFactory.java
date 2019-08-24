@@ -1,10 +1,9 @@
-package com.learniteasy.factorymethod;
+package com.learniteasy.factorymethod.basic;
+
+import com.learniteasy.factorymethod.Shape;
+import com.learniteasy.factorymethod.Shape.SHAPES;
 
 public class ShapeFactory {
-
-	public enum SHAPES {
-		CIRCLE, SQUARE, RECTANGLE;
-	}
 
 	/**
 	 * @param shapeType
